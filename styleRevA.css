@@ -1,6 +1,37 @@
 h1{
     text-align: center;
 }
+/* td{
+    
+    width: 100px;
+    height: 100px;  
+
+}
+
+table{
+    margin: auto;
+
+}
+
+.top{
+    border-top: 3px solid black;
+}
+.bottom{
+    border-bottom: 3px solid black;
+}
+.left{
+    border-left:  3px solid black;
+}
+.right{
+    border-right: 3px solid black;
+}
+ */
+
+
+
+
+
+/* ------------------------------------------------------------------------- */
 div{
     border: 3px solid black;
     margin: 100px auto;
@@ -19,7 +50,7 @@ div{
     width: 100px;
     height: 100px;
 }
-
+/* ----------------------------------------------------------------------- */
 /* div {
     border: 3px solid black;
     width: 500px;
