@@ -1,0 +1,25 @@
+/* HELPFUL HINTS…
+The “Boxception” text is an h1
+The width of the lines is 3px
+The middle box is 100px by 100px */
+h1{
+    text-align: center;
+}
+div{
+    border: 3px solid black;
+    margin: 100px auto;
+}
+
+.box{
+    width: 500px;
+    height: 500px;
+}
+.wrapper{
+    width: 300px;
+    height: 300px;
+}
+.inside{
+    width: 100px;
+    height: 100px;
+}
+
